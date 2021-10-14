@@ -1,2 +1,1 @@
-# Hire-Me
 # new-repo
